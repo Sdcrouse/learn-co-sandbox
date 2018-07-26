@@ -1,1 +1,0 @@
-If you want to access the files from this lesson, go to the Sdcrouse/html-introduction-v-000 repository.
