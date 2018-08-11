@@ -40,3 +40,6 @@ def hamburger_v5(toppings)
 end
 
 puts hamburger_v5(toppings).inspect # This outputs the same thing as #hamburger_v2
+
+# ruby my-ruby-files/make-a-hamburger.rb
+# I got the idea to try that from a discussion. All this does is get a NameError.
