@@ -14,7 +14,7 @@ class Song
   end
   
   def self.print_all_song_names 
-    self.all.each {|song| puts song.name}
+    puts self.all.map {|song| song.name}
   end
 end
 
